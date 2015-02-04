@@ -1,20 +1,20 @@
-array-flatten
+node-flatten
 ========
-[![build status](https://secure.travis-ci.org/ruanyl/array-flatten.svg)](http://travis-ci.org/ruanyl/array-flatten)
-[![NPM version](https://badge.fury.io/js/array-flatten.svg)](http://badge.fury.io/js/array-flatten)
+[![build status](https://secure.travis-ci.org/ruanyl/node-flatten.svg)](http://travis-ci.org/ruanyl/node-flatten)
+[![NPM version](https://badge.fury.io/js/node-flatten.svg)](http://badge.fury.io/js/node-flatten)
 
-array flatten
+node flatten
 
 ## Installation
 
 This module is installed via npm:
 
 ``` bash
-$ npm install array-flatten
+$ npm install node-flatten
 ```
 
 ## Example Usage
 
 ``` js
-var arrayFlatten = require('array-flatten');
+var flatten = require('node-flatten');
 ```

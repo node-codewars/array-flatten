@@ -1,5 +1,5 @@
 {
-  "name": "flatten",
+  "name": "node-flatten",
   "version": "0.0.1",
   "description": "flatten",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ruanyl/flatten"
+    "url": "https://github.com/node-codewars/node-flatten"
   },
   "keywords": ["flatten"] ,
   "author": "Yulong Ruan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ruanyl/flatten/issues"
+    "url": "https://github.com/node-codewars/node-flatten/issues"
   },
-  "homepage": "https://github.com/ruanyl/flatten",
+  "homepage": "https://github.com/node-codewars/node-flatten",
   "dependencies": {
     "ava": "0.0.4"
   },
